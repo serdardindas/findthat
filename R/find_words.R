@@ -1,4 +1,4 @@
-#' Find One Strings in Specific Column
+#' Find Strings in Specific Column
 #'
 #' @param df input data frame
 #' @param column column that you search your script

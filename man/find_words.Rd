@@ -2,7 +2,7 @@
 % Please edit documentation in R/find_words.R
 \name{find_words}
 \alias{find_words}
-\title{Find One Strings in Specific Column}
+\title{Find Strings in Specific Column}
 \usage{
 find_words(df, column, ...)
 }
@@ -17,7 +17,7 @@ find_words(df, column, ...)
 Filtered Data Frame contains row that your strings looking for.
 }
 \description{
-Find One Strings in Specific Column
+Find Strings in Specific Column
 }
 \examples{
 
