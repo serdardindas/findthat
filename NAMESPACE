@@ -2,4 +2,5 @@
 
 export("%>%")
 export(find_words)
+export(find_words_all)
 importFrom(magrittr,"%>%")
